@@ -42,3 +42,31 @@ nav ul{
     padding: 18px 35px;
     font-size: 20px;
 }
+.B-wel{
+    font-size: 45px;
+    font-weight: 600;
+}
+.B-title{
+    font-weight: bold;
+    font-size: 85px;
+}
+.bananr-des{
+    font-size: 18px;
+}
+.pic{
+    width: 580px;
+}
+.banar{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 230px;
+}
+.head{
+    background-image: url('../images/developer.png'), url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+    
+}
+.banar-content{
+    max-width: 580px;
+}
